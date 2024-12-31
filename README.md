@@ -29,7 +29,7 @@ git clone https://github.com/rohitsainier/ComfyUI-InstagramDownloader
 2. Install dependencies:
 
 ```bash
-cd instagram_downloader_comfyui
+cd ComfyUI-InstagramDownloader
 pip install -r requirements.txt
 ```
 
