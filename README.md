@@ -1,6 +1,9 @@
 # Instagram Downloader for ComfyUI
 
 A ComfyUI custom node package that allows downloading and organizing Instagram content directly in your ComfyUI workflows.
+<img width="1383" alt="Screenshot 2025-01-01 at 10 28 10 PM" src="https://github.com/user-attachments/assets/732d66e1-c6c7-4a8e-9e3c-9df6237ac127" />
+<img width="1325" alt="Screenshot 2025-01-01 at 10 39 16 PM" src="https://github.com/user-attachments/assets/80f9b6f8-d018-43d4-9dab-b3f2150603f5" />
+
 
 ## Features
 
