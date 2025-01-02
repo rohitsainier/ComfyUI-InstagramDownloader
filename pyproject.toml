@@ -1,0 +1,15 @@
+[project]
+name = "instagramdownloader"
+description = "A ComfyUI custom node package that allows downloading and organizing Instagram content directly in your ComfyUI Output folder"
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["instaloader>=4.10.0"]
+
+[project.urls]
+Repository = "https://github.com/rohitsainier/ComfyUI-InstagramDownloader"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-InstagramDownloader"
+Icon = ""
